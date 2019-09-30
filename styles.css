@@ -1,0 +1,177 @@
+/* Type */
+
+
+
+h1 {	
+	font-family: 'Montserrat', sans-serif;
+	font-size: 5em;
+	letter-spacing:300px
+}
+
+div.c {
+	text-transform: capitalize;
+  }
+
+.circle {
+	height: 800px;
+	width: 800px;
+	background-color: rgb(0,0,0);
+	border-radius: 50%;
+		position: absolute;
+	bottom: 65em;
+	left:3em;
+}
+				
+h2 {
+	font-family: 'Amatic SC', cursive;
+	background-color: lightcyan;
+	color: black;
+	font-family: sans-serif;
+	line-height: 1.em;
+	font-size: 15em;
+}
+div.s {
+	width: 900px;
+	height: 13px;
+	background-color:rgb(241, 105, 13);
+	transform: skewY(56deg);
+	position:absolute;
+	left:10em;
+	bottom:500px;
+}
+
+div.s {
+	width: 900px;
+	height: 13px;
+	background-color:rgb(241, 105, 13);
+	transform: skewY(56deg);
+	position:absolute;
+	left:10em;
+	bottom:300px;
+}
+
+div.s {
+	width: 900px;
+	height: 13px;
+	background-color:rgb(241, 105, 13);
+	transform: skewY(56deg);
+	position:absolute;
+	right:10em;
+	top:300px;
+}
+
+h3 {
+	font-size: 40px;
+	text-shadow: 2px 2px rgb(0, 255, 128);
+	letter-spacing:140px
+
+}
+
+p1 {
+	position: absolute;
+	left: 195px;
+	bottom: -600px;
+	font-size: 80px;
+	font-family: 'Montserrat', sans-serif;
+	transform: scale(2,4)
+			  rotate(5deg);
+}
+
+p2{
+	position:absolute;
+	left:4em;
+	top:500px;
+
+}	
+div.s {
+	width: 1040px;
+	height: 65px;
+	background-color:rgb(241, 105, 13);
+	transform: skewY(300deg);
+	position:absolute;
+	right:10em;
+	bottom:600px;
+}
+p3{
+	position:absolute;
+	left:20em;
+	top:350px;
+}
+	
+.circle2 {
+	height: 50px;
+	width: 50px;
+	background-color: peachpuff;
+	border-radius: 50%;
+		position: absolute;
+	right: 65em;
+	top:700px;
+}
+.circle3 {
+	height: 80px;
+	width: 80px;
+	background-color: peachpuff;
+	border-radius: 50%;
+		position: absolute;
+	right: 65em;
+	top:900px;
+}
+.circle4 {
+	height: 180px;
+	width: 180px;
+	background-color: peachpuff;
+	border-radius: 50%;
+		position: absolute;
+	right: 65em;
+	top:1100px;
+}
+p4{
+	letter-spacing: 95px;
+	font-size: 39px;
+}
+
+p5 {
+	position: absolute;
+	right: 150px;
+	bottom: -60px;
+	font-size: 90px;
+	font-family: 'Montserrat', sans-serif;
+	transform: scale(2,4)
+			  rotate(5deg);
+}
+
+p6 {
+	position: absolute;
+	right: 150px;
+	bottom: -370px;
+	font-size: 90px;
+	font-family: 'Montserrat', sans-serif;
+	transform: scale(2,4)
+			  rotate(5deg);
+
+}
+
+p7 {
+	list-style-position: inside;
+	right: 15em;
+	font-size: 460px;
+	font-family: 'Amatic SC', cursive;
+	transform: scale(2,4)
+			  rotate(5deg);
+}
+p8 {
+	list-style-position: inside;
+	right: 15em;
+	bottom:90px;
+	font-size: 40px;
+	font-family: 'Amatic SC', cursive;
+	transform: scale(2,4)
+			  rotate(5deg);
+			
+}
+
+
+
+
+
+
